@@ -1,0 +1,1 @@
+{}.toString.call(myList) == "[object Object]"
